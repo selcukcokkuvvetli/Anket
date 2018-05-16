@@ -1,0 +1,29 @@
+html,body{
+    background-color: #efefef;
+    height: 100%;
+}
+.container{
+    background-color: white;
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 15px;
+}
+.question{
+    width: 100%;
+}
+.question > p {
+    margin-bottom: 0;
+}
+.row{
+    margin: 0!important;
+    padding: 0!important;
+}
+.questions{
+    padding-bottom: 15px!important;
+}
+
+.answers{
+    width: 100%;
+    padding: 0 15px;
+}
